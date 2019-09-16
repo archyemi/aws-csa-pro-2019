@@ -1,12 +1,12 @@
 <html>
-<title> LA SA PRO ELB/ASG DEMO </title>
+<title> DevOps Underground DEMO </title>
 <body>
 <h1>
 <center>
-<IMG SRC="omg2.jpg" ALT="omg"><br>
 <?php
 echo $_SERVER['SERVER_ADDR'];
-?>
+?><br>
+<IMG SRC="omg2.jpg" ALT="omg">
 </center>
 </h1>
 </body>
