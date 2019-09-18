@@ -6,7 +6,7 @@
 <?php
 echo $_SERVER['SERVER_ADDR'];
 ?><br>
-<IMG SRC="omg2.jpg" ALT="omg">
+<IMG SRC="CAPTURE2.PNG" ALT="omg">
 </center>
 </h1>
 </body>
